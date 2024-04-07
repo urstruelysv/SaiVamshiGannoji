@@ -27,13 +27,3 @@ Front-end software junior developer with expertise in front-end development and 
 - mangoDB
 - MangoDB
 
-## 📺 Latest YouTube Videos
-
-- [Win this RTX 4090 signed by Jensen Huang](#)
-- [How Data Structures & Algorithms are Actually Used](#)
-- [The Biggest Issues I've Faced Web Scraping (and how to fix them)](#)
-- [The Data Structure You Use Matters a Lot](#)
-- [Top Paying Companies for Software Engineers](#)
-- [Merge Sort Visualized](#)
-
-## 📊 Stats
